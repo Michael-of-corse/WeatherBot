@@ -11,7 +11,7 @@
 docker compose build
 docker compose up
 ```
-### From source
+### From source \
 Кочаем зависимости
 `pip install -r requirments.txt`\
 Запускаем бота
