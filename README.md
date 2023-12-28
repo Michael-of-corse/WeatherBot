@@ -14,5 +14,5 @@ docker compose up
 ### From source \
 Кочаем зависимости \
 `pip install -r requirments.txt`\
-Запускаем бота
+Запускаем бота \
 `python3 start.py`
