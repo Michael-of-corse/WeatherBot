@@ -13,6 +13,6 @@ docker compose up
 ```
 ### From source
 Кочаем зависимости
-`pip install -r requirments.txt`
+`pip install -r requirments.txt`\
 Запускаем бота
 `python3 start.py`
